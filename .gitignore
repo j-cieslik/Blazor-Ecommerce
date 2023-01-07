@@ -1,0 +1,7 @@
+.vs/
+BlazorEcommerce/Client/obj/
+BlazorEcommerce/Server/obj/
+BlazorEcommerce/Shared/obj/
+BlazorEcommerce/Client/bin/
+BlazorEcommerce/Server/bin/
+BlazorEcommerce/Shared/bin/
